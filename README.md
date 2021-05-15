@@ -33,8 +33,6 @@
 
 - 🏆 We were at Rank-16 in Cricket and Code Hackathon - 2021 organized by IIT-Madras.
 
-<br />
-
 ### :trophy: My Github Stats:
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pavanpandya&count_private=true&show_icons=true&theme=tokyonight">
