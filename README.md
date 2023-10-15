@@ -3,7 +3,6 @@
 ## I'm a Machine Learning Enthusiast, Developer, and a Student!!
 
 - 🧠 I’m currently learning more about Machine Learning and Deep Learning.
-- I'm currently working on Social Distance Detection project.
 - 🧑‍🤝‍🧑 Ready to collaborate with other for the projects.
 - 💬 Ask me about Python and Machine Learning.
 - 💯 2023 Goals: Focus more on problem solving and Build some Great Projects.
