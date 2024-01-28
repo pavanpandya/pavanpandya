@@ -5,7 +5,7 @@
 - 🧠 I’m currently learning more about Machine Learning and Deep Learning.
 - 🧑‍🤝‍🧑 Ready to collaborate with other for the projects.
 - 💬 Ask me about Python and Machine Learning.
-- 💯 2023 Goals: Focus more on problem solving and Build some Great Projects.
+- 💯 2024 Goals: Focus more on problem solving and Build some Great Projects.
 - 📧 Reach me at [pavanpandya1311@gmail.com](mailto:pavanpandya1311@gmail.com)
 
 ### Connect with me:
