@@ -3,8 +3,8 @@ I'm a graduate student pursuing a Master of Science in Computer Science at India
 
 # 💫 About Me:
 - 🚀 I'm actively seeking collaborative projects in machine learning, deep learning, natural language processing, and computer vision.
-- 🛠️ I'm also open to summer internship opportunities for 2024 in Machine Learning Engineer (MLE) or Data Scientist (DS) roles.
-- 🌐 I am currently expanding my proficiency in cloud technologies like AWS, GCP, Snowflake, and Databricks.
+- 🛠️ I'm open to Fall 2024 Co-op opportunities and full-time roles for 2025.
+- 🌐 I'm currently expanding my proficiency in cloud technologies like AWS, Snowflake, and Databricks while also polishing my backend development skills.
 - 💬 Feel free to ask me anything related to these areas! I am always eager to learn and share knowledge with others.
 - ⛰️ Fun Fact: I enjoy hiking and cooking in my free time.
 - 📩 Reach out to me at pavanpandya.iu@gmail.com
