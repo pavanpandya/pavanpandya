@@ -5,10 +5,10 @@ I’m someone who believes in the power of teamwork and genuine connections. I v
 
 ## Technical Skills 🛠️
 - **Languages:** Python, C/C++, JavaScript
-- **Web Technologies:** HTML, CSS, React, Node.js, Express.js, Django, Flask
+- **Web Technologies:** React, Node.js, Express.js, Django, Flask, HTML, CSS, Tailwind CSS
 - **Data Science & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Huggingface, Langchain
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis, Cassandra, DynamoDB
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, Kubernetes, Vercel, Postman, Swagger, Tableau, Streamlit, Selenium
+- **Tools & Platforms:** Git, Linux, GitHub, Docker, AWS, Azure, Kubernetes, Vercel, Postman, Pytest, Swagger, Power BI, Streamlit, Selenium
 
 ## Key Projects 📚
 - **[Optimized NSFW Content Detection for Real-Time Moderation](#):** Developed a ResNet18-based model using quantization for NSFW content detection, achieving 95.1% accuracy & reducing the model size by 75% for real-time moderation on resource-constrained devices.
